@@ -1,0 +1,19 @@
+{
+  "name" : "birthday-magic",
+  "description" : "JavaScript's functional programming helper library.",
+  "keywords" : ["fun", "birthday", "silly"],
+  "author" : "Katherine Zeman Bach <greenyogaco@gmail.com>",
+  "repository" : {
+  	"type": "git", 
+  	"url": "git://github.com/kpowz/birthday-magic.git"
+  	},
+  "main" : "./lib/birthday-magic",
+  "version" : "0.1.0",
+  "license" : {
+  	"type":"MIT", 
+  	"url":"http://opensource.org/licenses/MIT"
+  	},
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
