@@ -1,6 +1,6 @@
-{
+  {
   "name" : "birthday-magic",
-  "description" : "JavaScript's functional programming helper library.",
+  "description" : "Magically generates birthday lore info. Possibly useful for clueless (/thoughtful?) birthday gift-givers.",
   "keywords" : ["fun", "birthday", "silly"],
   "author" : "Katherine Zeman Bach <greenyogaco@gmail.com>",
   "repository" : {
